@@ -54,7 +54,7 @@ Here are a few animations that visually represent the core ideas of our study:
 </div>
 
 
-2. **Transition between regimes**: !
+3. **Transition between regimes**: !
 <div style="display: flex; align-items: center;">
   <img src="animated_plot_phi_4_more_steps.gif" alt="Elastic regime" width="300" style="margin-right: 20px;">
   <p>
