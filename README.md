@@ -67,3 +67,11 @@ Here are a few animations that visually represent the core ideas of our study:
 
 For any questions or feedback, please contact jacopo.bilotto@epfl.ch.
 As mentioned in the paper there is still a lot of room for improvement of the numerics, as well as additional analysis to be done (FEM and physical instabilities, viscoelasticity, more complex geometries and kinetic effects, just to name a few).
+
+## License
+
+The code in this repository is licensed under the GPL License. See the [LICENSE](LICENSE) file for more information.
+
+The documentation and other content are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License. This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-SA includes the following elements.
+
+For more information, see the [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/).
