@@ -1,6 +1,7 @@
 # Fluid-Mediated Impact of Soft Solids
 
 This repository contains the code used for the simulations and scaling reported in the paper **"Fluid-Mediated Impact of Soft Solids"**. This study explores the interaction of soft solids with fluid media under impact, employing numerical simulations to capture the key dynamics. 
+You can access the full paper [here](<https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/fluidmediated-impact-of-soft-solids/E208CFA7E3181F48FB66DCE0DF20A182>).
 
 ![Main Concept Animation](ball_impact_cushioned.gif)
 
@@ -23,7 +24,7 @@ To study the cases of the expriments from **"Zheng, S., Dillavou, S. & Kolinski,
 
 ## Mathematica Notebooks
 
-The two notebooks automaticlly compute the characteristic scales for the diffrent regimes as well as the relative transtion parameters for solid impactors `fluid-mediated-impact-soft-solids.nb` and droplets `fluid-mediated-impact-droplets.nb`.
+The two notebooks automaticlly compute the characteristic scales for the different regimes as well as the relative transtion parameters for solid impactors `fluid-mediated-impact-soft-solids.nb` and droplets `fluid-mediated-impact-droplets.nb`.
 
 
 ## Software Requirements
